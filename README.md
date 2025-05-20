@@ -42,9 +42,9 @@ Each row represents an individual patient.
 ### 3. Model Development
 
 - Implementation of several machine learning models:
-  - Logistic Regression
-  - Decision Trees
-  - Support Vector Machines (SVM)
+  - XGBoost
+  - KNN
+  - Neural Networks
 - Hyperparameter tuning
 - Cross-validation
 
